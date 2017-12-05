@@ -2,7 +2,7 @@
 
 "Time to write ANOTHER Numberwang identifier!"   -   You, every day.
 									
-Quantum Hackers, AI Poltergheists, Ethereum Wars, and now a Numberwang identifier
+Quantum Hackers, AI Poltergeists, Ethereum Wars, and now a Numberwang identifier
 that can be easily implemented into Python code?! The future is now.
 
 ## Isn't this just a hardcoded list?
